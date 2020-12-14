@@ -1,5 +1,6 @@
 # Hotel-Management-System
 Bài tập tuần 07 lớp SE04
+
 :heavy_check_mark: Lập các sơ đồ use-case bằng UML <br>
 :heavy_check_mark: Tạo dự án trên GitHub và đưa các thông tin goals và business objectives vào file README <br>
 :heavy_check_mark: Trình bày các user stories vào thành các issue trên GitHub <br>
